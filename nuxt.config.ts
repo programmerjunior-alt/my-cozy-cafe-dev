@@ -17,7 +17,7 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "Memberikan Solusi sesuai dengan kebutuhan bisnis anda. #MakeITeasy",
+            "What started as a dream between two coffee-loving friends has grown into a beloved neighborhood gathering spot. #MakeITeasy",
         },
       ],
     },
