@@ -84,7 +84,8 @@ const submitContact = () => {
 
             <div>
               <h5 class="font-semibold text-gray-700">Address</h5>
-              <p>123 Coffee Lane, Artisan District<br/>New York, NY 10001</p>
+              <p>Cadillac, MI 8834 E 34 Rd #131
+              <br/>Cadillac, MI 49601</p>
             </div>
 
             <div>
@@ -107,7 +108,7 @@ const submitContact = () => {
           <div class="rounded-xl overflow-hidden shadow">
             <iframe
               class="w-full h-64"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.989562288002!2d-74.00482168459312!3d40.71277617933109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a199b2e024b%3A0x123456789abcdef!2s123%20Coffee%20Lane%2C%20New%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1690000000000!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2957.123456789012!2d-85.0001234!3d44.2501234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88123456789abcd%3A0xabcdef1234567890!2s8834%20E%2034%20Rd%20%23131%2C%20Cadillac%2C%20MI%2049601!5e0!3m2!1sen!2sus!4v1690000000000!5m2!1sen!2sus"
               allowfullscreen=""
               loading="lazy"
               referrerpolicy="no-referrer-when-downgrade"

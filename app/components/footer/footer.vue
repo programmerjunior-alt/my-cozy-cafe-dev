@@ -41,7 +41,7 @@
               </div>
               <div class="flex flex-col leading-tight text-sm">
                 <span class="font-semibold">Call Center</span>
-                <span>(555) 123-4567</span>
+                <span>+1(56)88289017</span>
               </div>
             </div>
 
@@ -61,7 +61,7 @@
               </div>
               <div class="flex flex-col leading-tight text-sm">
                 <span class="font-semibold">WhatsApp</span>
-                <span>(555) 123-4567</span>
+                <span>+1(56)88289017</span>
               </div>
             </div>
           </div>
